@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from toto.lib import who_am_i
+
+print(who_am_i())
